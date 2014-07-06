@@ -10,3 +10,5 @@ I was not able to get the "other (please specify)" radio button to work when the
 The stock email that I included is butthurt.care@gmail.com - anyone can access this email using the password "lolasspain". If the email is abused, I will delete it and change the stock email. 
 
 Any comments or criticsms can be sent to piotr.heft@gmail.com
+
+https://github.com/piovstein/Butthurt-PHP-Form/releases
