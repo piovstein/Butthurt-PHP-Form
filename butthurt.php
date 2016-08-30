@@ -269,7 +269,7 @@ if(isset($_POST["submit"])) {
       <input type="submit" name="submit">
     </form>
 </div>
-<small>image that started it all: <a href="http://www.27bslash6.com/brf.jpg">http://www.27bslash6.com/brf.jpg</a> / Thanks to <a href="http://nexua.org/niji/butthurt-form/">Nijko</a> for the idea / <a href="http://petersaysstuff.blogspot.com/">Peter Heft</a> / <a href="https://github.com/piovstein/Butthurt-PHP-Form">Github</a><div class="grid col-300 copyright">
+<small>image that started it all: <a href="http://www.27bslash6.com/brf.jpg">http://www.27bslash6.com/brf.jpg</a> / Thanks to <a href="http://nexua.org/niji/butthurt-form/">Nijko</a> for the idea / <a href="http://www.peterheft.com/">Peter Heft</a> / <a href="https://github.com/piovstein/Butthurt-PHP-Form">Github</a><div class="grid col-300 copyright">
 <medium><span style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block">
 		&copy;</span>2014 <a href="http://allritesreversed.com" target="_blank">All Rites Reversed.</a></medium></div></small>
 </body>
